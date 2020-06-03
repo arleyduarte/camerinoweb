@@ -320,7 +320,7 @@ hr {
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 	font-family: 'Yanone Kaffeesatz', sans-serif;
-	font-weight: 200;
+	font-weight: 100;
 	line-height: 1.1;
 	color: #fff;
 }
